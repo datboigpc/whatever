@@ -24,15 +24,9 @@
 
 # MyShit
 
-My place to put scripts / vulns / exploits / etc
+Feel free to request for more or give ideas to make this repo better.
+Email me @ d4tb01@protonmail.com
 
-# Exploits
-
-They will never be the full code exploit working in a general infrastructure
-
-```
-they will only work on vuln labs
-```
 
 # Scripts
 
@@ -42,32 +36,27 @@ they will only work on vuln labs
 * [PrivChecker](/scripts/privchecker.py) - Python - unix privilage checker script
 * [PsPy](/scripts/pspy64) - ELF file to check processes (like task manager)
 
-```
-If it fails, try harder
-```
+# Great Links:
 
-# My Usefull Links Mate
+* [Hacking Windows](https://xz.aliyun.com/t/6498)
+* [AbuseIP](https://www.abuseipdb.com)
+* [GTFO Bins](https://gtfobins.github.io)
+* [LOLBAS](https://lolbas-project.github.io)
+* [QuipQuip](https://www.quipqiup.com)
+* [HashKiller](https://hashkiller.co.uk/Cracker/MD5)
+* [HashesOrg](https://hashes.org/search.php)
+* [de4js](https://lelinhtinh.github.io/de4js/)
+* [AwesomePentest](https://github.com/enaqx/awesome-pentest)
+* [CodeBreaker](https://www.boxentriq.com/code-breaking)
+* [Fernet](https://asecuritysite.com/encryption/ferdecode)
+* [Malbolge](http://www.malbolge.doleczek.pl)
+* [CyberChef](https://gchq.github.io/CyberChef/)
+* [RedTeam/Kleinhen](https://github.com/itsKindred)
+* [WindowsEnum](https://m0chan.github.io/2019/07/30/Windows-Notes-and-Cheatsheet.html)
 
-* [Hacking Windows](https://xz.aliyun.com/t/6498) - Great Cheat Sheet
-* [AbuseIP](https://www.abuseipdb.com) - Track IPs...
-* [GTFO Bins](https://gtfobins.github.io) - You know what they do ;D
-* [LOLBAS](https://lolbas-project.github.io) - Same but for windows :D
-* [QuipQuip](https://www.quipqiup.com) - Cant read ir? Decrypt it! 
-* [HashKiller](https://hashkiller.co.uk/Cracker/MD5) - Hashed ? NP!
-* [HashesOrg](https://hashes.org/search.php) - If the above wont work ;)
-* [de4js](https://lelinhtinh.github.io/de4js/) - i like it :D
-* [AwesomePentest](https://github.com/enaqx/awesome-pentest) - Some tools rly usefull :D
-* [CodeBreaker](https://www.boxentriq.com/code-breaking) - To decode rotation cyphers ;)
-* [Fernet](https://asecuritysite.com/encryption/ferdecode) - Decode symmetric enc :D
-* [Malbolge](http://www.malbolge.doleczek.pl) - Malbolge Decoder :3
-* [CyberChef](https://gchq.github.io/CyberChef/) - Decrypt Shit
-* [RedTeam/Kleinhen](https://github.com/itsKindred) - Forensics Heaven
-* [WindowsEnum](https://m0chan.github.io/2019/07/30/Windows-Notes-and-Cheatsheet.html) - Windows Enum Cheat Sheat
-# Yep
+# If BugBounty Favorites: 
 
-# If tou wanna fo further on searching
-
-* [Censys] (https://Censys.io)
+* [Censys](https://Censys.io)
 * [Shodan](https://Shodan.io)
 * [GreyNoise](https://Viz.Greynoise.io/table)
 * [ZoomEye](https://Zoomeye.org)
@@ -77,5 +66,5 @@ If it fails, try harder
 * [Hunter](https://Hunter.io)
 
 ```
-thx mate
+Thanks for the support.
 ```
