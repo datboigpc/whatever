@@ -1,6 +1,7 @@
-WriteUps and Notes from boxes here
-All encrypted with my own script.
+# All of the writeups and notes are encrypted for safe keeping.
+# If a writeup or note is needed, just email me.
+# Thanks
 
 ```
-gl decrypting
+gl decrypting tho ;D
 ```
