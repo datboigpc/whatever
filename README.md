@@ -16,7 +16,10 @@
     <a href="https://github.com/datboigpc/whatever/tree/master/todo">ToDo</a>
     <br />
     <br />
-    <a href="https://github.com/datboigpc/whatever/tree/master/writeups">WriteUps</a>
+    <a href="https://github.com/datboigpc/whatever/tree/master/HTB/writeups"> HTB WriteUps</a>
+    <br />
+    <br />
+    <a href="https://github.com/datboigpc/whatever/tree/master/TryHackMe/writeups"> THM WriteUps</a>
     <br />
     <br />
   </p>
